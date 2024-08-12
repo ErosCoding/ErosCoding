@@ -11,7 +11,7 @@
 
 - 📄 **Frontend:** `HTML5`, `CSS`, `JavaScript`
 - 🔨 **Backend:** `Node.js`, `C#`
-- 🗃️ **database:** `mySQL`, `Oracle SQL Developer`
+- 🗃️ **Database:** `mySQL`, `Oracle SQL Developer`
 - 🎨 **Layout design:** `Figma`
 - 📦️ **Version code control:** `Git & Github`
 
