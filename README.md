@@ -10,10 +10,11 @@
 
 ### Current stack
 
+- 🤖 **LowCode:** `N8N` , `Make`
 - 📄 **Frontend:** `HTML5`, `CSS`, `JavaScript`
-- 🔨 **Backend:** `Node.js`, `C#`
-- 🗃️ **Database:** `mySQL`, `Oracle SQL Developer`
-- 🎨 **Layout design:** `Figma` `Photoshop` `Wordpress` `Elementor`
+- 🔨 **Backend:** `Node.js`, `C#`, `Python`
+- 🗃️ **Database:** `mySQL`, `Oracle SQL Developer`, `Supabase`
+- 🎨 **Layout design:** `Figma`, `Canva`, `Photoshop`, `Wordpress`, `Elementor`
 - 📦️ **Version code control:** `Git & Github`
 
 ### Contacts
