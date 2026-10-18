@@ -1,22 +1,13 @@
+### Oi, eu sou o Eros 👋
 
-## Hi there, I'm Eros Rodrigues 👋
+AI Engineer em Belo Horizonte.
 
+Crio agentes de IA, automações, integrações entre APIs e produtos SaaS. Hoje sou responsável pelo [CRM do Jordão](https://crmdojordao.com.br) na Emplo.ia.
 
-### About
+A maior parte do que faço é privado, de empresas e clientes. No [portfólio](https://eros-rodrigues.vercel.app/) eu conto o problema, a solução e a stack de cada projeto.
 
-- 📌 Currently evolving as a AI Automation Developer aiming to become a Software Engineer.
-- 🎨 Making Designs as a freelancer using figma, photoshop and Landing Pages using wordpress + elementor and Framer
-- 🧑‍💻 I'm graduating in Systems analysis and development at the Pontifícia Universidade Católica de Minas Gerais (PUC)
+No dia a dia uso Next.js, TypeScript, Python, Supabase, n8n, OpenAI e Claude.
 
-### Current stack
+Fora do código: jiu-jitsu, artes marciais, xadrez e desenvolvimento pessoal.
 
-- 🤖 **LowCode:** `N8N` , `Make`
-- 📄 **Frontend:** `HTML5`, `CSS`, `JavaScript`
-- 🔨 **Backend:** `Node.js`, `C#`, `Python`
-- 🗃️ **Database:** `mySQL`, `Oracle SQL Developer`, `Supabase`
-- 🎨 **Layout design:** `Figma`, `Canva`, `Photoshop`, `Wordpress`, `Elementor`, `Framer`
-- 📦️ **Version code control:** `Git & Github`
-
-### Contacts
-- 👥 Email: rodrigues01204@gmail.com
-- 🌐 Linkedin: https://www.linkedin.com/in/eroscode/
+[LinkedIn](https://www.linkedin.com/in/eroscode/) · [Instagram](https://www.instagram.com/eros.rva/) · [Portfólio](https://eros-rodrigues.vercel.app/)
