@@ -1,4 +1,4 @@
-### Oi, eu sou o Eros
+### Opa! Eros aqui, fique a vontade para entrar em contato comigo.
 
 AI Engineer em Belo Horizonte. Crio agentes de IA, automações, integrações entre APIs, produtos SaaS e muito mais. 
 Hoje sou responsável pelo [CRM do Jordão](https://crmdojordao.com.br) na Emplo.ia.
