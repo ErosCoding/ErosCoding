@@ -1,8 +1,10 @@
 ### Oi, eu sou o Eros
 
-AI Engineer em Belo Horizonte. Crio agentes de IA, automações, integrações entre APIs e produtos SaaS. Hoje sou responsável pelo [CRM do Jordão](https://crmdojordao.com.br) na Emplo.ia.
+AI Engineer em Belo Horizonte. Crio agentes de IA, automações, integrações entre APIs, produtos SaaS e muito mais. 
+Hoje sou responsável pelo [CRM do Jordão](https://crmdojordao.com.br) na Emplo.ia.
 
-A maior parte do que faço é privado. No [portfólio](https://eros-rodrigues.vercel.app/) eu conto o problema, a solução e a stack de cada projeto.
+A maior parte do que faço é privado. 
+No [portfólio](https://eros-rodrigues.vercel.app/) eu conto o problema, a solução e a stack de cada projeto.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
